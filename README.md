@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I am passionate about software development, data a
 - **Nationality:** Indian
 - **Contact:**  
   - 📱 +49 155 63631998  
-  - 📧 [sahilladola.18736@gmail.com](mailto:sahilladola.18736@gmail.com)  
+  - 📧 [sahilladola.1873@gmail.com](mailto:sahilladola.1873@gmail.com)  
   - [LinkedIn: Sahil Ladola](https://linkedin.com/in/sahil-ladola)
 
 ---
