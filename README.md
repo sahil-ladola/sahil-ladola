@@ -53,7 +53,7 @@ Welcome to my GitHub profile! I am an M.Sc. Industrial Artificial Intelligence s
   - Wrote the process documentation and presented the results to the team.
 
 - **Android Developer**  
-  *JBCoder TechnoLab, Surat, India (07.2023 – 06.2024)*  
+  *JBCoder TechnoLab, Surat, India (06.2023 – 05.2024)*  
   - Built Android features in Java and Kotlin, from the interface screens through to the logic behind them.
   - Set up database connectivity and REST API integration, testing each endpoint in Postman first, and tested and debugged every new feature before release.
 
