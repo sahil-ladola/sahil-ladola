@@ -79,7 +79,7 @@ Welcome to my GitHub profile! I am an M.Sc. Industrial Artificial Intelligence s
 ## 🗣️ Linguistic Skills
 
 - **English:** Fluent
-- **Deutsch (German):** Basic (A2 Level)
+- **Deutsch (German):** A2–B1 (learning B1)
 - **Hindi:** Fluent
 - **Gujarati:** Native
 
